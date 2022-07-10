@@ -1,1 +1,11 @@
-/* styles go here */
+.info-input {
+  display: block;
+}
+
+.info-input:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.question-block {
+  margin-bottom: 20px;
+}
